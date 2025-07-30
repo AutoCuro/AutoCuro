@@ -17,4 +17,4 @@ The designs in this repository showcase:
 ## Getting Help & Support
 
 ### 🌐 Website
-Visit our main website: **https://autocuro.com** [autocuro.com](https://autocuro.com)
+Visit our main website: **[autocuro.com](https://autocuro.com)**

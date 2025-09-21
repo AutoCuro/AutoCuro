@@ -1,4 +1,6 @@
-# PCB Design Automation - Generated Designs Repository
+# Autocuro – PCB Design Automation: Generated Designs Repository
+
+<img width="1342" height="466" alt="image" src="https://github.com/user-attachments/assets/6df26cca-8cef-4867-85c0-822150c47199" />
 
 This repository contains PCB designs automatically generated using our PCB design automation platform. These designs demonstrate the capabilities of automated PCB layout, component placement, and routing for 
 embedded hardware applications.

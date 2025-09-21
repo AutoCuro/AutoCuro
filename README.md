@@ -2,7 +2,7 @@
 
 <img width="1342" height="466" alt="image" src="https://github.com/user-attachments/assets/6df26cca-8cef-4867-85c0-822150c47199" />
 
-This repository contains PCB designs automatically generated using our PCB design automation platform. These designs demonstrate the capabilities of automated PCB layout, component placement, and routing for 
+This repository hosts **generated PCB placements** produced by Autocuro’s automation platform. These designs demonstrate the capabilities of automated PCB layout, component placement, and routing for 
 embedded hardware applications.
 
 ## About This Repository
@@ -14,9 +14,9 @@ The designs in this repository showcase:
 
 ## Repository Contents
 
-- **Design Files/S32K396**: Altium placement file generated from our recreation of [STM32L496G-DISCO board](https://autocuro.com/case_studies/automated-placement-for-stm32l496g-disco)
+- Read the full walkthrough: **Automated Recreation of STM32L496G-DISCO** → https://autocuro.com/case_studies/automated-placement-for-stm32l496g-disco
 
 ## Getting Help & Support
 
-### 🌐 Website
-Visit our main website: **[autocuro.com](https://autocuro.com)**
+## About Autocuro
+Autocuro builds AI-powered PCB automation for placement and layout acceleration. More at https://autocuro.com.

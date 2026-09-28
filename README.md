@@ -3,6 +3,8 @@
 <img width="1342" height="466" alt="image" src="https://github.com/user-attachments/assets/6df26cca-8cef-4867-85c0-822150c47199" />
 
 This repository hosts **generated PCB placements** produced by Autocuro's automation platform. These designs demonstrate the capabilities of automated PCB layout, component placement, and routing for embedded hardware applications.
+AutoCuro automates PCB component placement and routing while keeping the engineer in control of the design process.
+Access AutoCuro: https://autocuro.com/app
 
 ## About This Repository
 The designs in this repository showcase:
